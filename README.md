@@ -1,4 +1,4 @@
-
+# .NET 6.0  with GraphQL (.NET Core Web API)
 
 dotnet new sln
 
